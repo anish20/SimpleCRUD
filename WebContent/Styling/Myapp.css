@@ -1,0 +1,164 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 1, 2017, 12:28:40 AM
+    Author     : ANISH
+*/
+
+body{
+	font-size: 13px;
+	color: #000; 
+	font-family: verdana, helvetica, arial, sans-serif;
+	line-height: 24px;
+}
+.wrapper{
+    
+    
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    
+    max-width: 100%;
+    height: auto;
+    
+}
+h1{
+    padding: 20px;
+    text-align: center;
+    color: green;
+    font-family: serif arial;
+}
+
+
+.menu a{
+    max-width: 100%;
+    height: auto;
+   text-decoration: none;
+   color:darkcyan;
+}
+.im-size{
+    width: 20px;
+    color: darkcyan;
+}
+.menu a:hover{
+    color: green;
+    
+}
+.content{
+   max-width: 100%;
+   height: auto;
+   padding-bottom: 10px;
+   padding-top: 10px;
+  
+}
+.content p{
+    margin: 10px;
+   
+    
+}
+li{
+    list-style-type: circle;
+    line-height: 25px;
+}
+
+.footer{
+    max-width: 100%;
+    
+}
+.form-page{
+    width: 50%;
+    height: auto;
+    margin:auto;
+    padding-bottom:5px;
+    
+}
+
+.table-lookup{
+	margin: 0;
+	padding: 0;
+	height: auto;
+	background: lightgray;
+	border: none;
+}
+.table-lookup tr,td{
+	padding: 10px;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border:none;
+	
+	
+}
+
+.table-lookup input{
+	border: none;
+	border-radius: 5px;
+	height: 23px;
+	width: auto;
+}
+
+.table-lookup select{
+	border: none;
+	border-radius: 5px;
+	height: 23px;
+}
+
+.table-lookup button{
+	background: activeborder;
+	padding:3px;
+	cursor: pointer;
+	color:green;
+	
+	
+}
+.table-lookup button:hover {
+	color: red;
+	background: cadetblue;
+}
+
+
+#view-tb{
+	margin: 0;
+	padding: 0px;
+	font-size: 12px;
+	color: #000; 
+	font-family: verdana, helvetica, arial, sans-serif;
+	line-height: 15px;
+	border:solid 1px;
+	border-collapse: collapse;
+	
+}
+
+ .th{
+	border:solid 1px;
+	padding:8px;
+	
+}
+.head{
+background: lime;	
+}
+.td{
+	border:solid 1px;
+	padding:8px;
+	text-align: center;
+	
+}
+.td:hover{
+	background: lightblue;
+}
+.select:hover {
+	background: lightgray;
+}
+
+.select a{
+	text-decoration: none;
+}
