@@ -36,7 +36,7 @@
        <table class="table-lookup">
        	  <tr>
        	  	<td>Date of Birth</td>
-       	  	<td><input type="date" name="dob" placeholder=" Enter Date of Birth " required="required"></td>
+       	  	<td><input type="date" name="dob" placeholder=" Enter Date of Birth " required="required" style="width:170px;"></td>
        	  
        	  </tr>
        	   <tr>

@@ -103,13 +103,14 @@ li{
 	border: none;
 	border-radius: 5px;
 	height: 23px;
-	width: auto;
+	width:170px;
 }
 
 .table-lookup select{
 	border: none;
 	border-radius: 5px;
 	height: 23px;
+	
 }
 
 .table-lookup button{
@@ -161,4 +162,9 @@ background: lime;
 
 .select a{
 	text-decoration: none;
+}
+
+.message{
+	
+	
 }

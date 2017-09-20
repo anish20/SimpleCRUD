@@ -74,7 +74,7 @@ public class PageController extends HttpServlet {
 		
 		
 		else{
-			pw.print("Sorry..");
+			response.sendRedirect("Error-page.jsp");
 		}
 	}
 	

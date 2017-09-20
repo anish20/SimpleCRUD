@@ -61,7 +61,13 @@
        	  	</tr>
        	  	<tr>
        	  	<td>Gender</td>
-       	  	<td><input type="text" name="gender" value="<%=rs.getString(6) %>" ></td>
+       	  	<td>
+       	  	<select name="gender" >
+       	  			<option>--select gender--</option>
+       	  			<option> Male </option>
+       	  			<option> Female </option>
+       	  			       	  		</select>
+       	  	</td>
        	  	<td>Qualification</td>
        	  	<td><select name="qlf" >
        	  			<option>--select--</option>

@@ -48,8 +48,8 @@
        	  </tr>
        	  <tr>
        	  	<td>Qualification</td>
-       	  	<td><select name="ql">
-       	  			<option>--select--</option>
+       	  	<td><select name="ql" style="width:170px;">
+       	  			<option>--select qualification--</option>
        	  			<option>High School</option>
        	  			<option>Intermediate</option>
        	  			<option>Graduate</option>
